@@ -1,0 +1,9 @@
+AI IMAGE ANALYZER/
+│── templates/
+   └── index.html        # Frontend UI
+│── .venv/                # Local virtual environment (ignored in GitHub)
+│── .env                  # Contains GROQ_API_KEY (private)
+│── app.py                # FastAPI backend
+│── main.py               # Local test script
+│── Screenshot 2025-05-05 at 17.15.26.png   # Test image
+│── temp.md               # Sample logs / responses
